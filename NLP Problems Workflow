@@ -4,3 +4,11 @@ Tokenizing the string
 Lowercasing
 Removing stop words and punctuation
 Stemming
+
+training a Naive bayes model on our preprocess text:
+preprocess the whole text data
+compute freq(w, class)
+compute P(w|pos) and compute P(w|neg)
+compute lambda(w)
+compute LogPrior = log( P(pos) / P(neg) )
+
