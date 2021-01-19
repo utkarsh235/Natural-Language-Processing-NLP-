@@ -1,0 +1,9 @@
+1) word_count: number of words in text
+2) unique_word_count: number of unique words in text
+3) stop_word_count: number of stop words in text
+4) url_count: number of urls in text
+5) mean_word_length: average character count in words
+6) char_count: number of characters in text
+7) punctuation_count: number of punctuations in text
+8) hashtag_count: number of hashtags (#) in text
+9) mention_count: number of mentions (@) in text
